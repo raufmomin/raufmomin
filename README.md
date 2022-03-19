@@ -1,4 +1,11 @@
 ### Hi there 👋
+#### You can find me on,
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/raufmomin/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:raufmomin26@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/raufmomin"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>    
+</p>
 
 <!--
 **raufmomin/raufmomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
