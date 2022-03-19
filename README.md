@@ -1,10 +1,24 @@
-### Hi there 👋
-#### You can find me on,
+<h1 align="left">Hi there 👋, I'm Rauf Momin</h1>
+<h3 align="left">Machine Learning Engineer/Data Scientist (AI/Vision) </h3>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/raufmomin/"><img title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:raufmomin26@gmail.com"><img title="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.kaggle.com/raufmomin"><img title="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"/></a>    
+<h3 align="left">📫 Connect with me:</h3>
+    <p align="left">
+        <a href="mailto:raufmomin26@gmail.com"
+        ><img
+            title="Email"
+            src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        /></a>
+        <a href="https://www.linkedin.com/in/raufmomin/"
+        ><img
+            title="LinkedIn"
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        /></a>
+        <a href="https://www.kaggle.com/raufmomin"
+        ><img
+            title="Kaggle"
+            src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=fff"
+        /></a>
+    </p>
 </p>
 
 <!--
